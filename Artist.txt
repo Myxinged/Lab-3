@@ -7,7 +7,6 @@ Ava Max, 1
 Aya Nakamura, 1
 Bad Bunny, 2
 BANNERS, 1
-Bea Miller, 1
 BENEE, 1
 Billie Eilish, 5
 Black Eyed Peas, 1
@@ -18,6 +17,7 @@ BTS, 2
 BØRNS, 1
 Calvin Harris, 1
 Camilo, 2
+Cardi B, 1
 Chris Brown, 2
 Conan Gray, 1
 Curtis Waters, 1
@@ -64,7 +64,7 @@ Lady Gaga, 2
 Lewis Capaldi, 2
 Lil Mosey, 1
 Machine Gun Kelly, 1
-Maluma, 3
+Maluma, 4
 Manuel Turizo, 1
 Maroon 5, 2
 Marshmello, 1
